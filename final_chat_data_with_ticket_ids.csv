@@ -1,0 +1,2251 @@
+chat_id,speaker,text,sequence,ticket_id_x,ticket_id_y
+CHAT-0001,Customer,"Okay, noted.",1,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,Let me check your account.,2,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Great service!,3,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I understand your concern.,4,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,I see. What should I do now?,5,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,Thanks for waiting.,6,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,I want to speak to a supervisor.,7,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I'm looking into it for you.,8,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Waiting for your response.,9,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,This should be resolved now.,10,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,I just need some clarity on this.,11,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,Let me check your account.,12,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,This is getting frustrating.,13,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I’ve shared the update.,14,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,This is unacceptable.,15,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,Thanks for waiting.,16,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,"Okay, noted.",17,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I’ve shared the update.,18,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Can you help me with this?,19,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,Thanks for waiting.,20,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,I'm really unhappy with this service.,21,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I'm looking into it for you.,22,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Great service!,23,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,This should be resolved now.,24,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,I appreciate your support.,25,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,This should be resolved now.,26,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,You're really helpful!,27,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,This should be resolved now.,28,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Why do I need to repeat myself?,29,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I'm looking into it for you.,30,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Great service!,31,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,Let me check your account.,32,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,I'm checking the issue again.,33,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,This should be resolved now.,34,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Great service!,35,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I'm looking into it for you.,36,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,"Thank you so much, that helped!",37,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I’ve shared the update.,38,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Thanks for resolving it fast.,39,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,I'm looking into it for you.,40,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,Can you help me with this?,41,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,This should be resolved now.,42,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,"Okay, noted.",43,TKT-4955310,TKT-3639972
+CHAT-0001,Agent,This should be resolved now.,44,TKT-4955310,TKT-3639972
+CHAT-0001,Customer,This is getting frustrating.,45,TKT-4955310,TKT-3639972
+CHAT-0002,Customer,"All good now, thanks!",1,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I’ve shared the update.,2,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,"All good now, thanks!",3,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,Let me check your account.,4,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,I'm really unhappy with this service.,5,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,This should be resolved now.,6,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,You still haven't resolved my issue.,7,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,This should be resolved now.,8,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,This was quick and easy.,9,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I understand your concern.,10,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,I'm checking the issue again.,11,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I understand your concern.,12,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,I just need some clarity on this.,13,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,Thanks for waiting.,14,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,Terrible support.,15,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,This should be resolved now.,16,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,Great service!,17,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I understand your concern.,18,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,I'm really unhappy with this service.,19,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,Thanks for waiting.,20,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,"Okay, noted.",21,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I'm looking into it for you.,22,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,You still haven't resolved my issue.,23,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I understand your concern.,24,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,Great service!,25,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I understand your concern.,26,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,I'm really unhappy with this service.,27,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,Thanks for waiting.,28,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,You're really helpful!,29,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I understand your concern.,30,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,"Okay, noted.",31,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I'll escalate this for you.,32,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,Can you help me with this?,33,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I'll escalate this for you.,34,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,This is unacceptable.,35,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,Thanks for waiting.,36,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,Terrible support.,37,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I'm looking into it for you.,38,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,Please check and let me know.,39,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I'm looking into it for you.,40,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,Why do I need to repeat myself?,41,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,This should be resolved now.,42,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,You're really helpful!,43,TKT-8502614,TKT-7079756
+CHAT-0002,Agent,I'm looking into it for you.,44,TKT-8502614,TKT-7079756
+CHAT-0002,Customer,"All good now, thanks!",45,TKT-8502614,TKT-7079756
+CHAT-0003,Customer,I'm checking the issue again.,1,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I'm looking into it for you.,2,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,Why do I need to repeat myself?,3,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,This should be resolved now.,4,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,I'm checking the issue again.,5,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I'll escalate this for you.,6,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,Can you help me with this?,7,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I'll escalate this for you.,8,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,I want to speak to a supervisor.,9,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I’ve shared the update.,10,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,I appreciate your support.,11,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,Thanks for waiting.,12,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,"Okay, noted.",13,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I understand your concern.,14,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,Waiting for your response.,15,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I'm looking into it for you.,16,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,"Okay, noted.",17,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,This should be resolved now.,18,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,"Okay, noted.",19,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I'm looking into it for you.,20,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,Waiting for your response.,21,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I understand your concern.,22,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,"Thank you so much, that helped!",23,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I'll escalate this for you.,24,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,This is getting frustrating.,25,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I understand your concern.,26,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,Waiting for your response.,27,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,This should be resolved now.,28,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,Can you help me with this?,29,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,Let me check your account.,30,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,Can you help me with this?,31,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I understand your concern.,32,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,This is unacceptable.,33,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,Thanks for waiting.,34,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,This is unacceptable.,35,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,This should be resolved now.,36,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,Can you help me with this?,37,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I'm looking into it for you.,38,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,This was quick and easy.,39,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,I’ve shared the update.,40,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,"Okay, noted.",41,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,Thanks for waiting.,42,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,I'm checking the issue again.,43,TKT-2874375,TKT-1223677
+CHAT-0003,Agent,Let me check your account.,44,TKT-2874375,TKT-1223677
+CHAT-0003,Customer,"Okay, noted.",45,TKT-2874375,TKT-1223677
+CHAT-0004,Customer,This is unacceptable.,1,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,Let me check your account.,2,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,I want to speak to a supervisor.,3,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'll escalate this for you.,4,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,You still haven't resolved my issue.,5,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'll escalate this for you.,6,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,You're really helpful!,7,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'll escalate this for you.,8,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,You still haven't resolved my issue.,9,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'm looking into it for you.,10,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Great service!,11,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,Let me check your account.,12,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,I see. What should I do now?,13,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I’ve shared the update.,14,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,"Okay, noted.",15,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,This should be resolved now.,16,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Waiting for your response.,17,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I understand your concern.,18,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Thanks for resolving it fast.,19,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,This should be resolved now.,20,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Waiting for your response.,21,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I understand your concern.,22,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,I'm checking the issue again.,23,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'm looking into it for you.,24,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Please check and let me know.,25,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,This should be resolved now.,26,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,I appreciate your support.,27,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,Thanks for waiting.,28,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Why do I need to repeat myself?,29,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'll escalate this for you.,30,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,I see. What should I do now?,31,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,Thanks for waiting.,32,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,I appreciate your support.,33,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'll escalate this for you.,34,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Terrible support.,35,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'm looking into it for you.,36,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Waiting for your response.,37,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I’ve shared the update.,38,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,You still haven't resolved my issue.,39,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I’ve shared the update.,40,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,I just need some clarity on this.,41,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,I'll escalate this for you.,42,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Great service!,43,TKT-8489777,TKT-2782866
+CHAT-0004,Agent,Let me check your account.,44,TKT-8489777,TKT-2782866
+CHAT-0004,Customer,Thanks for resolving it fast.,45,TKT-8489777,TKT-2782866
+CHAT-0005,Customer,I'm checking the issue again.,1,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I'm looking into it for you.,2,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I appreciate your support.,3,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I'm looking into it for you.,4,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I want to speak to a supervisor.,5,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I'm looking into it for you.,6,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,You still haven't resolved my issue.,7,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I’ve shared the update.,8,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,Thanks for resolving it fast.,9,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I’ve shared the update.,10,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I see. What should I do now?,11,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,This should be resolved now.,12,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I appreciate your support.,13,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,Thanks for waiting.,14,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I'm really unhappy with this service.,15,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,This should be resolved now.,16,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I see. What should I do now?,17,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,Let me check your account.,18,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,Great service!,19,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I’ve shared the update.,20,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I want to speak to a supervisor.,21,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,Thanks for waiting.,22,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,"Okay, noted.",23,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I understand your concern.,24,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,This is unacceptable.,25,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,This should be resolved now.,26,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I'm checking the issue again.,27,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I'll escalate this for you.,28,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I'm checking the issue again.,29,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I understand your concern.,30,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I just need some clarity on this.,31,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,Let me check your account.,32,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I see. What should I do now?,33,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I'm looking into it for you.,34,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,Great service!,35,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,This should be resolved now.,36,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,I appreciate your support.,37,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I'll escalate this for you.,38,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,This is getting frustrating.,39,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I'm looking into it for you.,40,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,You're really helpful!,41,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,Let me check your account.,42,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,Can you help me with this?,43,TKT-1516424,TKT-8398133
+CHAT-0005,Agent,I'll escalate this for you.,44,TKT-1516424,TKT-8398133
+CHAT-0005,Customer,Great service!,45,TKT-1516424,TKT-8398133
+CHAT-0006,Customer,Terrible support.,1,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I'll escalate this for you.,2,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,I want to speak to a supervisor.,3,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I understand your concern.,4,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Can you help me with this?,5,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,Thanks for waiting.,6,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Can you help me with this?,7,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I understand your concern.,8,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,I appreciate your support.,9,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I'm looking into it for you.,10,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,"All good now, thanks!",11,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,This should be resolved now.,12,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Please check and let me know.,13,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I understand your concern.,14,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,I just need some clarity on this.,15,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I understand your concern.,16,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,You're really helpful!,17,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,This should be resolved now.,18,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,"Okay, noted.",19,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I'm looking into it for you.,20,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Terrible support.,21,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I'll escalate this for you.,22,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Terrible support.,23,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I’ve shared the update.,24,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,I'm checking the issue again.,25,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I'll escalate this for you.,26,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,This is getting frustrating.,27,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,Let me check your account.,28,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,I appreciate your support.,29,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I'll escalate this for you.,30,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Please check and let me know.,31,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I’ve shared the update.,32,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Why do I need to repeat myself?,33,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,Thanks for waiting.,34,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Great service!,35,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,Thanks for waiting.,36,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,Terrible support.,37,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I'll escalate this for you.,38,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,"Okay, noted.",39,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,I understand your concern.,40,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,This is unacceptable.,41,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,Thanks for waiting.,42,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,"Thank you so much, that helped!",43,TKT-8361433,TKT-1065045
+CHAT-0006,Agent,This should be resolved now.,44,TKT-8361433,TKT-1065045
+CHAT-0006,Customer,I'm really unhappy with this service.,45,TKT-8361433,TKT-1065045
+CHAT-0007,Customer,Why do I need to repeat myself?,1,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,Let me check your account.,2,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,I see. What should I do now?,3,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I'm looking into it for you.,4,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,This is getting frustrating.,5,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I understand your concern.,6,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,Can you help me with this?,7,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,Let me check your account.,8,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,I'm really unhappy with this service.,9,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,This should be resolved now.,10,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,Waiting for your response.,11,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,This should be resolved now.,12,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,I appreciate your support.,13,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I’ve shared the update.,14,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,Waiting for your response.,15,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I'll escalate this for you.,16,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,"All good now, thanks!",17,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I understand your concern.,18,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,I'm checking the issue again.,19,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,This should be resolved now.,20,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,"All good now, thanks!",21,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,Thanks for waiting.,22,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,This is getting frustrating.,23,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I’ve shared the update.,24,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,Waiting for your response.,25,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,This should be resolved now.,26,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,I want to speak to a supervisor.,27,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I’ve shared the update.,28,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,"Okay, noted.",29,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I'll escalate this for you.,30,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,Thanks for resolving it fast.,31,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,Let me check your account.,32,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,Please check and let me know.,33,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I’ve shared the update.,34,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,Why do I need to repeat myself?,35,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I'll escalate this for you.,36,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,You still haven't resolved my issue.,37,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I'm looking into it for you.,38,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,This is getting frustrating.,39,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I'll escalate this for you.,40,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,I'm really unhappy with this service.,41,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,I understand your concern.,42,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,I see. What should I do now?,43,TKT-3659560,TKT-6093180
+CHAT-0007,Agent,Let me check your account.,44,TKT-3659560,TKT-6093180
+CHAT-0007,Customer,Great service!,45,TKT-3659560,TKT-6093180
+CHAT-0008,Customer,Can you help me with this?,1,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I'll escalate this for you.,2,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,This was quick and easy.,3,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Thanks for waiting.,4,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,You still haven't resolved my issue.,5,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I understand your concern.,6,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,Why do I need to repeat myself?,7,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Let me check your account.,8,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,Can you help me with this?,9,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Let me check your account.,10,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,This is unacceptable.,11,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I'm looking into it for you.,12,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,You still haven't resolved my issue.,13,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Let me check your account.,14,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,"All good now, thanks!",15,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I’ve shared the update.,16,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,Waiting for your response.,17,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Let me check your account.,18,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,This is unacceptable.,19,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Thanks for waiting.,20,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,I want to speak to a supervisor.,21,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I'll escalate this for you.,22,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,Why do I need to repeat myself?,23,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Let me check your account.,24,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,You're really helpful!,25,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,This should be resolved now.,26,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,"All good now, thanks!",27,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Thanks for waiting.,28,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,I appreciate your support.,29,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I understand your concern.,30,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,This was quick and easy.,31,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,This should be resolved now.,32,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,This is unacceptable.,33,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Thanks for waiting.,34,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,You still haven't resolved my issue.,35,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I'm looking into it for you.,36,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,I want to speak to a supervisor.,37,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,Let me check your account.,38,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,Waiting for your response.,39,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I understand your concern.,40,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,You still haven't resolved my issue.,41,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,I’ve shared the update.,42,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,"Okay, noted.",43,TKT-3960376,TKT-3987679
+CHAT-0008,Agent,This should be resolved now.,44,TKT-3960376,TKT-3987679
+CHAT-0008,Customer,Waiting for your response.,45,TKT-3960376,TKT-3987679
+CHAT-0009,Customer,"All good now, thanks!",1,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I’ve shared the update.,2,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,"Okay, noted.",3,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,Let me check your account.,4,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I'm really unhappy with this service.,5,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,This should be resolved now.,6,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,Why do I need to repeat myself?,7,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I'm looking into it for you.,8,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I'm checking the issue again.,9,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I’ve shared the update.,10,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I appreciate your support.,11,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I’ve shared the update.,12,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,"All good now, thanks!",13,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,Thanks for waiting.,14,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,Please check and let me know.,15,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,This should be resolved now.,16,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,Can you help me with this?,17,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,This should be resolved now.,18,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I see. What should I do now?,19,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,Let me check your account.,20,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,Waiting for your response.,21,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I'm looking into it for you.,22,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,Why do I need to repeat myself?,23,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,This should be resolved now.,24,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,You're really helpful!,25,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,This should be resolved now.,26,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,Can you help me with this?,27,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,Thanks for waiting.,28,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I see. What should I do now?,29,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,This should be resolved now.,30,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,Can you help me with this?,31,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,Let me check your account.,32,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,"Okay, noted.",33,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I'm looking into it for you.,34,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,This was quick and easy.,35,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I’ve shared the update.,36,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I want to speak to a supervisor.,37,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,Let me check your account.,38,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I just need some clarity on this.,39,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I’ve shared the update.,40,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I see. What should I do now?,41,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,This should be resolved now.,42,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,I'm really unhappy with this service.,43,TKT-2301688,TKT-1467212
+CHAT-0009,Agent,I understand your concern.,44,TKT-2301688,TKT-1467212
+CHAT-0009,Customer,This is unacceptable.,45,TKT-2301688,TKT-1467212
+CHAT-0010,Customer,This was quick and easy.,1,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I’ve shared the update.,2,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,Terrible support.,3,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I understand your concern.,4,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,Great service!,5,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I’ve shared the update.,6,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,I see. What should I do now?,7,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I'll escalate this for you.,8,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,I see. What should I do now?,9,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,This should be resolved now.,10,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,"Okay, noted.",11,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I'll escalate this for you.,12,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,Why do I need to repeat myself?,13,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,Thanks for waiting.,14,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,Please check and let me know.,15,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,Let me check your account.,16,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,I'm checking the issue again.,17,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,Let me check your account.,18,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,Please check and let me know.,19,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I'll escalate this for you.,20,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,This was quick and easy.,21,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,Thanks for waiting.,22,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,You still haven't resolved my issue.,23,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,Thanks for waiting.,24,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,Why do I need to repeat myself?,25,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I'm looking into it for you.,26,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,I appreciate your support.,27,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,Thanks for waiting.,28,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,I'm checking the issue again.,29,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,This should be resolved now.,30,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,"Thank you so much, that helped!",31,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,This should be resolved now.,32,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,I see. What should I do now?,33,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,This should be resolved now.,34,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,This is getting frustrating.,35,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,This should be resolved now.,36,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,This was quick and easy.,37,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I understand your concern.,38,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,Great service!,39,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I'm looking into it for you.,40,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,This is getting frustrating.,41,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,I’ve shared the update.,42,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,Please check and let me know.,43,TKT-6419215,TKT-3633556
+CHAT-0010,Agent,Thanks for waiting.,44,TKT-6419215,TKT-3633556
+CHAT-0010,Customer,This was quick and easy.,45,TKT-6419215,TKT-3633556
+CHAT-0011,Customer,I appreciate your support.,1,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I'll escalate this for you.,2,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,"All good now, thanks!",3,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I'm looking into it for you.,4,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,I'm checking the issue again.,5,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I'll escalate this for you.,6,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,Why do I need to repeat myself?,7,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,This should be resolved now.,8,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,I appreciate your support.,9,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I understand your concern.,10,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,I see. What should I do now?,11,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I understand your concern.,12,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,This is getting frustrating.,13,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,Thanks for waiting.,14,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,This is getting frustrating.,15,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,Let me check your account.,16,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,This is unacceptable.,17,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,Let me check your account.,18,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,"Okay, noted.",19,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I’ve shared the update.,20,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,Thanks for resolving it fast.,21,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,This should be resolved now.,22,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,Why do I need to repeat myself?,23,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,This should be resolved now.,24,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,I just need some clarity on this.,25,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I'm looking into it for you.,26,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,I'm checking the issue again.,27,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I'll escalate this for you.,28,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,Why do I need to repeat myself?,29,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,This should be resolved now.,30,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,Please check and let me know.,31,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,Let me check your account.,32,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,Thanks for resolving it fast.,33,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I'm looking into it for you.,34,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,I appreciate your support.,35,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,Let me check your account.,36,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,Great service!,37,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,Let me check your account.,38,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,I see. What should I do now?,39,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I'll escalate this for you.,40,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,Waiting for your response.,41,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I'll escalate this for you.,42,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,This was quick and easy.,43,TKT-5642917,TKT-2705645
+CHAT-0011,Agent,I understand your concern.,44,TKT-5642917,TKT-2705645
+CHAT-0011,Customer,I'm really unhappy with this service.,45,TKT-5642917,TKT-2705645
+CHAT-0012,Customer,Please check and let me know.,1,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,I'm looking into it for you.,2,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,I just need some clarity on this.,3,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,I understand your concern.,4,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,You're really helpful!,5,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Let me check your account.,6,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,I'm checking the issue again.,7,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Let me check your account.,8,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,Waiting for your response.,9,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,This should be resolved now.,10,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,You're really helpful!,11,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,This should be resolved now.,12,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,You're really helpful!,13,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,I'm looking into it for you.,14,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,Waiting for your response.,15,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,I understand your concern.,16,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,"All good now, thanks!",17,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,I understand your concern.,18,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,I appreciate your support.,19,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Let me check your account.,20,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,I see. What should I do now?,21,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,This should be resolved now.,22,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,Can you help me with this?,23,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Let me check your account.,24,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,I just need some clarity on this.,25,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,I'll escalate this for you.,26,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,Can you help me with this?,27,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Thanks for waiting.,28,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,I just need some clarity on this.,29,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Let me check your account.,30,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,"Okay, noted.",31,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,I'll escalate this for you.,32,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,Why do I need to repeat myself?,33,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Let me check your account.,34,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,"All good now, thanks!",35,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Thanks for waiting.,36,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,This is getting frustrating.,37,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Let me check your account.,38,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,"Okay, noted.",39,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Let me check your account.,40,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,I see. What should I do now?,41,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,This should be resolved now.,42,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,I see. What should I do now?,43,TKT-1203420,TKT-5129566
+CHAT-0012,Agent,Thanks for waiting.,44,TKT-1203420,TKT-5129566
+CHAT-0012,Customer,Waiting for your response.,45,TKT-1203420,TKT-5129566
+CHAT-0013,Customer,Waiting for your response.,1,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I'm looking into it for you.,2,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I see. What should I do now?,3,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I'm looking into it for you.,4,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I see. What should I do now?,5,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I'll escalate this for you.,6,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,Terrible support.,7,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I understand your concern.,8,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I appreciate your support.,9,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Let me check your account.,10,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,This is getting frustrating.,11,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Thanks for waiting.,12,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,You still haven't resolved my issue.,13,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I'll escalate this for you.,14,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I'm really unhappy with this service.,15,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,This should be resolved now.,16,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,"Thank you so much, that helped!",17,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Let me check your account.,18,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I just need some clarity on this.,19,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I understand your concern.,20,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I appreciate your support.,21,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I'll escalate this for you.,22,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I appreciate your support.,23,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I'll escalate this for you.,24,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I appreciate your support.,25,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I’ve shared the update.,26,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,Why do I need to repeat myself?,27,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Let me check your account.,28,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,"Thank you so much, that helped!",29,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I understand your concern.,30,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I see. What should I do now?,31,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Let me check your account.,32,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,Why do I need to repeat myself?,33,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I’ve shared the update.,34,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,Please check and let me know.,35,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Thanks for waiting.,36,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,Why do I need to repeat myself?,37,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Thanks for waiting.,38,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,Please check and let me know.,39,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Thanks for waiting.,40,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,You still haven't resolved my issue.,41,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,Let me check your account.,42,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,I see. What should I do now?,43,TKT-7918922,TKT-5699373
+CHAT-0013,Agent,I'll escalate this for you.,44,TKT-7918922,TKT-5699373
+CHAT-0013,Customer,Waiting for your response.,45,TKT-7918922,TKT-5699373
+CHAT-0014,Customer,This was quick and easy.,1,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I'm looking into it for you.,2,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,This is getting frustrating.,3,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I’ve shared the update.,4,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,Why do I need to repeat myself?,5,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I understand your concern.,6,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,Please check and let me know.,7,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,Thanks for waiting.,8,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,I want to speak to a supervisor.,9,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,Let me check your account.,10,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,"Thank you so much, that helped!",11,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,Let me check your account.,12,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,You're really helpful!,13,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I understand your concern.,14,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,Can you help me with this?,15,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I’ve shared the update.,16,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,I want to speak to a supervisor.,17,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I understand your concern.,18,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,I see. What should I do now?,19,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I'm looking into it for you.,20,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,Please check and let me know.,21,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I understand your concern.,22,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,I appreciate your support.,23,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I'm looking into it for you.,24,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,Why do I need to repeat myself?,25,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I understand your concern.,26,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,This is unacceptable.,27,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I'm looking into it for you.,28,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,I just need some clarity on this.,29,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I'll escalate this for you.,30,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,I'm really unhappy with this service.,31,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I'm looking into it for you.,32,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,This is getting frustrating.,33,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,Thanks for waiting.,34,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,You're really helpful!,35,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,Let me check your account.,36,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,I just need some clarity on this.,37,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I understand your concern.,38,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,Can you help me with this?,39,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,Thanks for waiting.,40,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,This was quick and easy.,41,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I’ve shared the update.,42,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,Thanks for resolving it fast.,43,TKT-4776485,TKT-9182666
+CHAT-0014,Agent,I'm looking into it for you.,44,TKT-4776485,TKT-9182666
+CHAT-0014,Customer,"All good now, thanks!",45,TKT-4776485,TKT-9182666
+CHAT-0015,Customer,I'm really unhappy with this service.,1,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Thanks for waiting.,2,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,Terrible support.,3,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Let me check your account.,4,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,I just need some clarity on this.,5,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Let me check your account.,6,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,I appreciate your support.,7,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Thanks for waiting.,8,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,I see. What should I do now?,9,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I’ve shared the update.,10,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,Why do I need to repeat myself?,11,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I’ve shared the update.,12,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,"Okay, noted.",13,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I'm looking into it for you.,14,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,I'm really unhappy with this service.,15,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I'll escalate this for you.,16,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,Waiting for your response.,17,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I'm looking into it for you.,18,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,I see. What should I do now?,19,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I understand your concern.,20,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,Waiting for your response.,21,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Thanks for waiting.,22,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,You still haven't resolved my issue.,23,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I'm looking into it for you.,24,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,This is unacceptable.,25,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I'm looking into it for you.,26,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,"Okay, noted.",27,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I'll escalate this for you.,28,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,"Okay, noted.",29,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Thanks for waiting.,30,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,Terrible support.,31,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I'm looking into it for you.,32,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,Can you help me with this?,33,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Let me check your account.,34,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,"Thank you so much, that helped!",35,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I'm looking into it for you.,36,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,Waiting for your response.,37,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Thanks for waiting.,38,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,This is getting frustrating.,39,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I understand your concern.,40,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,You still haven't resolved my issue.,41,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,Let me check your account.,42,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,This is getting frustrating.,43,TKT-5077055,TKT-3256989
+CHAT-0015,Agent,I’ve shared the update.,44,TKT-5077055,TKT-3256989
+CHAT-0015,Customer,You still haven't resolved my issue.,45,TKT-5077055,TKT-3256989
+CHAT-0016,Customer,"Thank you so much, that helped!",1,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Thanks for waiting.,2,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,Great service!,3,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I'm looking into it for you.,4,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,"Thank you so much, that helped!",5,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I'll escalate this for you.,6,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,Thanks for resolving it fast.,7,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Let me check your account.,8,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,Please check and let me know.,9,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Thanks for waiting.,10,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,I'm checking the issue again.,11,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I understand your concern.,12,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,Great service!,13,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Thanks for waiting.,14,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,Can you help me with this?,15,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Thanks for waiting.,16,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,"Okay, noted.",17,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I understand your concern.,18,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,I want to speak to a supervisor.,19,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,This should be resolved now.,20,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,I see. What should I do now?,21,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I understand your concern.,22,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,This is unacceptable.,23,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Thanks for waiting.,24,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,Waiting for your response.,25,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Let me check your account.,26,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,"Thank you so much, that helped!",27,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I'm looking into it for you.,28,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,I want to speak to a supervisor.,29,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,This should be resolved now.,30,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,"Okay, noted.",31,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I’ve shared the update.,32,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,This is getting frustrating.,33,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Let me check your account.,34,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,You still haven't resolved my issue.,35,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,This should be resolved now.,36,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,This is getting frustrating.,37,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I'm looking into it for you.,38,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,Can you help me with this?,39,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,Thanks for waiting.,40,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,Thanks for resolving it fast.,41,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I'll escalate this for you.,42,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,I see. What should I do now?,43,TKT-2277297,TKT-6991917
+CHAT-0016,Agent,I’ve shared the update.,44,TKT-2277297,TKT-6991917
+CHAT-0016,Customer,I see. What should I do now?,45,TKT-2277297,TKT-6991917
+CHAT-0017,Customer,I want to speak to a supervisor.,1,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I'll escalate this for you.,2,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,I want to speak to a supervisor.,3,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I'm looking into it for you.,4,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,I appreciate your support.,5,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I'm looking into it for you.,6,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,Thanks for resolving it fast.,7,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,Thanks for waiting.,8,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,I appreciate your support.,9,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I understand your concern.,10,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,"Okay, noted.",11,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,Thanks for waiting.,12,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,I'm really unhappy with this service.,13,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I’ve shared the update.,14,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,Can you help me with this?,15,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I'll escalate this for you.,16,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,This was quick and easy.,17,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I’ve shared the update.,18,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,This is unacceptable.,19,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,Let me check your account.,20,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,You're really helpful!,21,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I'll escalate this for you.,22,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,Can you help me with this?,23,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I'll escalate this for you.,24,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,I just need some clarity on this.,25,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,Thanks for waiting.,26,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,I want to speak to a supervisor.,27,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,This should be resolved now.,28,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,This was quick and easy.,29,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,Let me check your account.,30,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,"All good now, thanks!",31,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I’ve shared the update.,32,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,Please check and let me know.,33,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,Let me check your account.,34,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,I appreciate your support.,35,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I’ve shared the update.,36,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,This was quick and easy.,37,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,Thanks for waiting.,38,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,Terrible support.,39,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I understand your concern.,40,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,"Thank you so much, that helped!",41,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,Let me check your account.,42,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,Waiting for your response.,43,TKT-1960579,TKT-6887452
+CHAT-0017,Agent,I’ve shared the update.,44,TKT-1960579,TKT-6887452
+CHAT-0017,Customer,I just need some clarity on this.,45,TKT-1960579,TKT-6887452
+CHAT-0018,Customer,This is unacceptable.,1,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I understand your concern.,2,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,I'm really unhappy with this service.,3,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I'm looking into it for you.,4,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,"All good now, thanks!",5,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,This should be resolved now.,6,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,You're really helpful!,7,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I’ve shared the update.,8,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,Can you help me with this?,9,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,Thanks for waiting.,10,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,This is getting frustrating.,11,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,Let me check your account.,12,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,Why do I need to repeat myself?,13,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I'll escalate this for you.,14,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,This is getting frustrating.,15,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I'm looking into it for you.,16,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,I appreciate your support.,17,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,Thanks for waiting.,18,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,"All good now, thanks!",19,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,This should be resolved now.,20,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,I just need some clarity on this.,21,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,Let me check your account.,22,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,I appreciate your support.,23,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I’ve shared the update.,24,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,Can you help me with this?,25,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I’ve shared the update.,26,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,"Okay, noted.",27,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,Let me check your account.,28,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,This is unacceptable.,29,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I understand your concern.,30,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,"Okay, noted.",31,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,Let me check your account.,32,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,"Thank you so much, that helped!",33,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,This should be resolved now.,34,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,Why do I need to repeat myself?,35,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,Thanks for waiting.,36,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,I'm really unhappy with this service.,37,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,This should be resolved now.,38,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,This is unacceptable.,39,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,Thanks for waiting.,40,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,Can you help me with this?,41,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,I'll escalate this for you.,42,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,I appreciate your support.,43,TKT-7623031,TKT-5726016
+CHAT-0018,Agent,This should be resolved now.,44,TKT-7623031,TKT-5726016
+CHAT-0018,Customer,Why do I need to repeat myself?,45,TKT-7623031,TKT-5726016
+CHAT-0019,Customer,"Thank you so much, that helped!",1,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I'm looking into it for you.,2,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I'm checking the issue again.,3,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I’ve shared the update.,4,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I just need some clarity on this.,5,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I'm looking into it for you.,6,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I appreciate your support.,7,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I'll escalate this for you.,8,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,Please check and let me know.,9,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I'm looking into it for you.,10,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I appreciate your support.,11,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I'll escalate this for you.,12,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,You still haven't resolved my issue.,13,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I understand your concern.,14,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I just need some clarity on this.,15,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,Let me check your account.,16,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,Great service!,17,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I’ve shared the update.,18,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,Can you help me with this?,19,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,Thanks for waiting.,20,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,Great service!,21,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,Thanks for waiting.,22,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,"Okay, noted.",23,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,Thanks for waiting.,24,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,You're really helpful!,25,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I understand your concern.,26,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,Thanks for resolving it fast.,27,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,This should be resolved now.,28,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I see. What should I do now?,29,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I'm looking into it for you.,30,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I just need some clarity on this.,31,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I understand your concern.,32,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,Can you help me with this?,33,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I'll escalate this for you.,34,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I see. What should I do now?,35,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I’ve shared the update.,36,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,You're really helpful!,37,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,Thanks for waiting.,38,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I see. What should I do now?,39,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,I understand your concern.,40,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I see. What should I do now?,41,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,Let me check your account.,42,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,You're really helpful!,43,TKT-9740145,TKT-4910923
+CHAT-0019,Agent,This should be resolved now.,44,TKT-9740145,TKT-4910923
+CHAT-0019,Customer,I'm checking the issue again.,45,TKT-9740145,TKT-4910923
+CHAT-0020,Customer,Can you help me with this?,1,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I understand your concern.,2,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,This is getting frustrating.,3,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,Let me check your account.,4,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,"Okay, noted.",5,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I understand your concern.,6,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,I'm really unhappy with this service.,7,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,This should be resolved now.,8,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,I'm checking the issue again.,9,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I’ve shared the update.,10,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,"Okay, noted.",11,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,This should be resolved now.,12,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,This is getting frustrating.,13,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I'll escalate this for you.,14,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,I see. What should I do now?,15,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,Thanks for waiting.,16,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,Can you help me with this?,17,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I’ve shared the update.,18,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,"Okay, noted.",19,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,Thanks for waiting.,20,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,Why do I need to repeat myself?,21,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I understand your concern.,22,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,"All good now, thanks!",23,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I understand your concern.,24,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,This was quick and easy.,25,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,This should be resolved now.,26,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,Great service!,27,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I'm looking into it for you.,28,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,Great service!,29,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I'll escalate this for you.,30,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,This is getting frustrating.,31,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I understand your concern.,32,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,"Thank you so much, that helped!",33,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,Thanks for waiting.,34,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,"All good now, thanks!",35,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I'm looking into it for you.,36,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,I just need some clarity on this.,37,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I understand your concern.,38,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,You still haven't resolved my issue.,39,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,This should be resolved now.,40,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,Thanks for resolving it fast.,41,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,I understand your concern.,42,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,This was quick and easy.,43,TKT-2424383,TKT-5879505
+CHAT-0020,Agent,This should be resolved now.,44,TKT-2424383,TKT-5879505
+CHAT-0020,Customer,I just need some clarity on this.,45,TKT-2424383,TKT-5879505
+CHAT-0021,Customer,I just need some clarity on this.,1,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,This should be resolved now.,2,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I'm really unhappy with this service.,3,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I understand your concern.,4,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I just need some clarity on this.,5,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I’ve shared the update.,6,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,Can you help me with this?,7,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I’ve shared the update.,8,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,"Okay, noted.",9,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I'll escalate this for you.,10,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,Please check and let me know.,11,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I understand your concern.,12,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I'm checking the issue again.,13,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I'll escalate this for you.,14,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,You still haven't resolved my issue.,15,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,This should be resolved now.,16,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I just need some clarity on this.,17,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I’ve shared the update.,18,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,You're really helpful!,19,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I’ve shared the update.,20,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I'm checking the issue again.,21,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,This should be resolved now.,22,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,Waiting for your response.,23,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I understand your concern.,24,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,This is unacceptable.,25,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I'll escalate this for you.,26,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,This is getting frustrating.,27,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I'll escalate this for you.,28,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,Why do I need to repeat myself?,29,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,This should be resolved now.,30,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I appreciate your support.,31,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,Thanks for waiting.,32,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,"Okay, noted.",33,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I understand your concern.,34,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,Waiting for your response.,35,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,Let me check your account.,36,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I'm checking the issue again.,37,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I'll escalate this for you.,38,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,You're really helpful!,39,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I'll escalate this for you.,40,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I want to speak to a supervisor.,41,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,I’ve shared the update.,42,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,"Okay, noted.",43,TKT-4257912,TKT-4501759
+CHAT-0021,Agent,Thanks for waiting.,44,TKT-4257912,TKT-4501759
+CHAT-0021,Customer,I want to speak to a supervisor.,45,TKT-4257912,TKT-4501759
+CHAT-0022,Customer,I see. What should I do now?,1,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,Thanks for waiting.,2,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,This is getting frustrating.,3,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I’ve shared the update.,4,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,I just need some clarity on this.,5,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I'm looking into it for you.,6,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Terrible support.,7,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,Let me check your account.,8,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Can you help me with this?,9,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,Let me check your account.,10,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Terrible support.,11,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I’ve shared the update.,12,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,"Okay, noted.",13,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I'll escalate this for you.,14,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,"Thank you so much, that helped!",15,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,Let me check your account.,16,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,You still haven't resolved my issue.,17,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I understand your concern.,18,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,"All good now, thanks!",19,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I’ve shared the update.,20,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Please check and let me know.,21,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I’ve shared the update.,22,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,I just need some clarity on this.,23,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I’ve shared the update.,24,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Can you help me with this?,25,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,Thanks for waiting.,26,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,You still haven't resolved my issue.,27,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I'm looking into it for you.,28,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,I see. What should I do now?,29,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I’ve shared the update.,30,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Waiting for your response.,31,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,Let me check your account.,32,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,You still haven't resolved my issue.,33,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I'm looking into it for you.,34,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Waiting for your response.,35,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I'm looking into it for you.,36,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Why do I need to repeat myself?,37,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,Let me check your account.,38,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,I just need some clarity on this.,39,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,This should be resolved now.,40,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,"Thank you so much, that helped!",41,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,I’ve shared the update.,42,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,I want to speak to a supervisor.,43,TKT-3460736,TKT-3401777
+CHAT-0022,Agent,This should be resolved now.,44,TKT-3460736,TKT-3401777
+CHAT-0022,Customer,Can you help me with this?,45,TKT-3460736,TKT-3401777
+CHAT-0023,Customer,Can you help me with this?,1,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,Let me check your account.,2,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,"All good now, thanks!",3,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,4,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,"Thank you so much, that helped!",5,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,This should be resolved now.,6,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,"All good now, thanks!",7,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I’ve shared the update.,8,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Thanks for resolving it fast.,9,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,10,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,I just need some clarity on this.,11,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'll escalate this for you.,12,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Waiting for your response.,13,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,14,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,"Thank you so much, that helped!",15,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,Thanks for waiting.,16,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,This is getting frustrating.,17,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,18,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Please check and let me know.,19,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,20,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Great service!,21,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I’ve shared the update.,22,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,"Okay, noted.",23,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'll escalate this for you.,24,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Can you help me with this?,25,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,26,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Waiting for your response.,27,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,Thanks for waiting.,28,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,You're really helpful!,29,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,Thanks for waiting.,30,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Why do I need to repeat myself?,31,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I’ve shared the update.,32,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Terrible support.,33,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,34,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Thanks for resolving it fast.,35,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,This should be resolved now.,36,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,I'm really unhappy with this service.,37,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,38,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,I'm really unhappy with this service.,39,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I'm looking into it for you.,40,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Please check and let me know.,41,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I’ve shared the update.,42,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Why do I need to repeat myself?,43,TKT-3335559,TKT-4285354
+CHAT-0023,Agent,I understand your concern.,44,TKT-3335559,TKT-4285354
+CHAT-0023,Customer,Waiting for your response.,45,TKT-3335559,TKT-4285354
+CHAT-0024,Customer,This was quick and easy.,1,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I’ve shared the update.,2,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Can you help me with this?,3,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I’ve shared the update.,4,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,"All good now, thanks!",5,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,Let me check your account.,6,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Can you help me with this?,7,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I'm looking into it for you.,8,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Thanks for resolving it fast.,9,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I'm looking into it for you.,10,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,I see. What should I do now?,11,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,Thanks for waiting.,12,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,I want to speak to a supervisor.,13,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I understand your concern.,14,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,I see. What should I do now?,15,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,Let me check your account.,16,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Why do I need to repeat myself?,17,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,Let me check your account.,18,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,This is getting frustrating.,19,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I'm looking into it for you.,20,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,This is unacceptable.,21,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I'm looking into it for you.,22,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,I see. What should I do now?,23,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I understand your concern.,24,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Thanks for resolving it fast.,25,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,This should be resolved now.,26,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,I just need some clarity on this.,27,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,Thanks for waiting.,28,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Thanks for resolving it fast.,29,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I'll escalate this for you.,30,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,"Okay, noted.",31,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,Let me check your account.,32,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Why do I need to repeat myself?,33,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I'm looking into it for you.,34,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,I appreciate your support.,35,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I'll escalate this for you.,36,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Terrible support.,37,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I'll escalate this for you.,38,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Thanks for resolving it fast.,39,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I understand your concern.,40,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Great service!,41,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,This should be resolved now.,42,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,I'm checking the issue again.,43,TKT-3377538,TKT-7296150
+CHAT-0024,Agent,I understand your concern.,44,TKT-3377538,TKT-7296150
+CHAT-0024,Customer,Why do I need to repeat myself?,45,TKT-3377538,TKT-7296150
+CHAT-0025,Customer,Can you help me with this?,1,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I’ve shared the update.,2,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Can you help me with this?,3,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I'm looking into it for you.,4,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,I'm checking the issue again.,5,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,Thanks for waiting.,6,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Waiting for your response.,7,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,Let me check your account.,8,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,I'm checking the issue again.,9,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,This should be resolved now.,10,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,I just need some clarity on this.,11,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I'll escalate this for you.,12,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,This was quick and easy.,13,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I’ve shared the update.,14,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Great service!,15,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I understand your concern.,16,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,"Thank you so much, that helped!",17,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,This should be resolved now.,18,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,"All good now, thanks!",19,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I’ve shared the update.,20,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,This is getting frustrating.,21,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I'm looking into it for you.,22,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Thanks for resolving it fast.,23,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I understand your concern.,24,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Waiting for your response.,25,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I understand your concern.,26,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Please check and let me know.,27,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,Let me check your account.,28,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,I'm really unhappy with this service.,29,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I'm looking into it for you.,30,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Can you help me with this?,31,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,Let me check your account.,32,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Waiting for your response.,33,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I understand your concern.,34,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Great service!,35,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I'm looking into it for you.,36,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,I'm really unhappy with this service.,37,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,This should be resolved now.,38,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,Please check and let me know.,39,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I understand your concern.,40,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,This was quick and easy.,41,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,I'm looking into it for you.,42,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,You're really helpful!,43,TKT-6806085,TKT-3659112
+CHAT-0025,Agent,Thanks for waiting.,44,TKT-6806085,TKT-3659112
+CHAT-0025,Customer,This is getting frustrating.,45,TKT-6806085,TKT-3659112
+CHAT-0026,Customer,"All good now, thanks!",1,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,Let me check your account.,2,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,"Okay, noted.",3,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I’ve shared the update.,4,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,I see. What should I do now?,5,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I'll escalate this for you.,6,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,Thanks for resolving it fast.,7,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I'm looking into it for you.,8,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,This was quick and easy.,9,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,This should be resolved now.,10,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,"Okay, noted.",11,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,This should be resolved now.,12,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,"Okay, noted.",13,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,Thanks for waiting.,14,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,This is getting frustrating.,15,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,Let me check your account.,16,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,Thanks for resolving it fast.,17,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I’ve shared the update.,18,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,I just need some clarity on this.,19,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,Let me check your account.,20,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,Can you help me with this?,21,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I'm looking into it for you.,22,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,I'm really unhappy with this service.,23,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I'm looking into it for you.,24,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,I just need some clarity on this.,25,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I'll escalate this for you.,26,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,I see. What should I do now?,27,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I’ve shared the update.,28,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,This is unacceptable.,29,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,This should be resolved now.,30,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,"Thank you so much, that helped!",31,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,This should be resolved now.,32,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,"Thank you so much, that helped!",33,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,Thanks for waiting.,34,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,Can you help me with this?,35,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,Let me check your account.,36,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,This is unacceptable.,37,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I'm looking into it for you.,38,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,This is unacceptable.,39,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I’ve shared the update.,40,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,Please check and let me know.,41,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,Thanks for waiting.,42,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,Great service!,43,TKT-1988999,TKT-2027606
+CHAT-0026,Agent,I'm looking into it for you.,44,TKT-1988999,TKT-2027606
+CHAT-0026,Customer,I just need some clarity on this.,45,TKT-1988999,TKT-2027606
+CHAT-0027,Customer,Why do I need to repeat myself?,1,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'll escalate this for you.,2,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,Waiting for your response.,3,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I understand your concern.,4,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I see. What should I do now?,5,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'll escalate this for you.,6,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,"Okay, noted.",7,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,Let me check your account.,8,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,Please check and let me know.,9,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I’ve shared the update.,10,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,This was quick and easy.,11,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'll escalate this for you.,12,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I see. What should I do now?,13,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,Thanks for waiting.,14,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I want to speak to a supervisor.,15,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'll escalate this for you.,16,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,Why do I need to repeat myself?,17,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'm looking into it for you.,18,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I just need some clarity on this.,19,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'll escalate this for you.,20,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I want to speak to a supervisor.,21,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I’ve shared the update.,22,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,You still haven't resolved my issue.,23,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I’ve shared the update.,24,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,This was quick and easy.,25,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,Thanks for waiting.,26,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I see. What should I do now?,27,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,Thanks for waiting.,28,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,You still haven't resolved my issue.,29,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,Let me check your account.,30,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I just need some clarity on this.,31,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'll escalate this for you.,32,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,"Okay, noted.",33,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I’ve shared the update.,34,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,Terrible support.,35,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'm looking into it for you.,36,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,Terrible support.,37,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I'm looking into it for you.,38,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I just need some clarity on this.,39,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I’ve shared the update.,40,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,Thanks for resolving it fast.,41,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,This should be resolved now.,42,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,I'm checking the issue again.,43,TKT-2978399,TKT-3774436
+CHAT-0027,Agent,I understand your concern.,44,TKT-2978399,TKT-3774436
+CHAT-0027,Customer,This is getting frustrating.,45,TKT-2978399,TKT-3774436
+CHAT-0028,Customer,I want to speak to a supervisor.,1,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I understand your concern.,2,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,Please check and let me know.,3,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,Thanks for waiting.,4,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,"All good now, thanks!",5,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,This should be resolved now.,6,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I appreciate your support.,7,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I'm looking into it for you.,8,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,Please check and let me know.,9,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I'm looking into it for you.,10,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I'm checking the issue again.,11,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I’ve shared the update.,12,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,"Thank you so much, that helped!",13,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,Thanks for waiting.,14,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,Can you help me with this?,15,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I'm looking into it for you.,16,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I just need some clarity on this.,17,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I’ve shared the update.,18,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I see. What should I do now?,19,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I’ve shared the update.,20,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,Terrible support.,21,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,Let me check your account.,22,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I want to speak to a supervisor.,23,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,Thanks for waiting.,24,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,Please check and let me know.,25,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I understand your concern.,26,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I appreciate your support.,27,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I understand your concern.,28,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I just need some clarity on this.,29,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,This should be resolved now.,30,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,"Okay, noted.",31,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,Thanks for waiting.,32,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,Great service!,33,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I'm looking into it for you.,34,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,This was quick and easy.,35,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,Let me check your account.,36,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I'm checking the issue again.,37,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I’ve shared the update.,38,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,"Thank you so much, that helped!",39,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I’ve shared the update.,40,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,I see. What should I do now?,41,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I’ve shared the update.,42,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,This is getting frustrating.,43,TKT-2349363,TKT-9309818
+CHAT-0028,Agent,I’ve shared the update.,44,TKT-2349363,TKT-9309818
+CHAT-0028,Customer,Terrible support.,45,TKT-2349363,TKT-9309818
+CHAT-0029,Customer,I just need some clarity on this.,1,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,This should be resolved now.,2,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,Please check and let me know.,3,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I understand your concern.,4,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,This is unacceptable.,5,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,Thanks for waiting.,6,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,You're really helpful!,7,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,This should be resolved now.,8,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,Please check and let me know.,9,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,This should be resolved now.,10,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,I just need some clarity on this.,11,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,Thanks for waiting.,12,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,"Okay, noted.",13,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I'm looking into it for you.,14,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,Thanks for resolving it fast.,15,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,Thanks for waiting.,16,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,"Thank you so much, that helped!",17,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I’ve shared the update.,18,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,I just need some clarity on this.,19,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,This should be resolved now.,20,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,I'm really unhappy with this service.,21,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,Thanks for waiting.,22,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,This was quick and easy.,23,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I'm looking into it for you.,24,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,Terrible support.,25,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,Let me check your account.,26,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,I see. What should I do now?,27,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I'll escalate this for you.,28,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,Can you help me with this?,29,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I’ve shared the update.,30,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,"Okay, noted.",31,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,Thanks for waiting.,32,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,I'm checking the issue again.,33,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I understand your concern.,34,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,"Okay, noted.",35,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I'm looking into it for you.,36,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,I'm checking the issue again.,37,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,I'm looking into it for you.,38,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,You still haven't resolved my issue.,39,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,This should be resolved now.,40,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,I see. What should I do now?,41,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,Thanks for waiting.,42,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,This was quick and easy.,43,TKT-2775595,TKT-1414258
+CHAT-0029,Agent,Thanks for waiting.,44,TKT-2775595,TKT-1414258
+CHAT-0029,Customer,"Thank you so much, that helped!",45,TKT-2775595,TKT-1414258
+CHAT-0030,Customer,You're really helpful!,1,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I understand your concern.,2,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Thanks for resolving it fast.,3,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I’ve shared the update.,4,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Why do I need to repeat myself?,5,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I'm looking into it for you.,6,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Please check and let me know.,7,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I'm looking into it for you.,8,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I'm checking the issue again.,9,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I'm looking into it for you.,10,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Great service!,11,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,Let me check your account.,12,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,"All good now, thanks!",13,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I'm looking into it for you.,14,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I'm checking the issue again.,15,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I understand your concern.,16,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,This is unacceptable.,17,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,This should be resolved now.,18,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I'm checking the issue again.,19,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,This should be resolved now.,20,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I'm checking the issue again.,21,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,Let me check your account.,22,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Can you help me with this?,23,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,This should be resolved now.,24,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I see. What should I do now?,25,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,This should be resolved now.,26,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Can you help me with this?,27,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,Let me check your account.,28,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Can you help me with this?,29,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,Let me check your account.,30,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I'm checking the issue again.,31,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I’ve shared the update.,32,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I'm checking the issue again.,33,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,This should be resolved now.,34,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,"Okay, noted.",35,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,This should be resolved now.,36,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Please check and let me know.,37,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,Thanks for waiting.,38,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I'm checking the issue again.,39,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I'll escalate this for you.,40,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,"Okay, noted.",41,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I understand your concern.,42,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,Please check and let me know.,43,TKT-1404974,TKT-2882772
+CHAT-0030,Agent,I understand your concern.,44,TKT-1404974,TKT-2882772
+CHAT-0030,Customer,I see. What should I do now?,45,TKT-1404974,TKT-2882772
+CHAT-0031,Customer,Thanks for resolving it fast.,1,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I’ve shared the update.,2,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,You're really helpful!,3,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I understand your concern.,4,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,Waiting for your response.,5,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,This should be resolved now.,6,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,I see. What should I do now?,7,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,This should be resolved now.,8,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,This is getting frustrating.,9,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I understand your concern.,10,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,This was quick and easy.,11,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,This should be resolved now.,12,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,This was quick and easy.,13,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I'll escalate this for you.,14,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,This is getting frustrating.,15,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I’ve shared the update.,16,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,Please check and let me know.,17,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I understand your concern.,18,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,You still haven't resolved my issue.,19,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,Thanks for waiting.,20,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,"All good now, thanks!",21,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I understand your concern.,22,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,Waiting for your response.,23,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,Thanks for waiting.,24,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,You're really helpful!,25,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I’ve shared the update.,26,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,"Okay, noted.",27,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I'll escalate this for you.,28,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,Thanks for resolving it fast.,29,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I’ve shared the update.,30,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,Waiting for your response.,31,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,Let me check your account.,32,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,I'm checking the issue again.,33,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I'll escalate this for you.,34,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,Can you help me with this?,35,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I'm looking into it for you.,36,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,Can you help me with this?,37,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I'll escalate this for you.,38,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,This is getting frustrating.,39,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I'll escalate this for you.,40,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,You're really helpful!,41,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I understand your concern.,42,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,This is getting frustrating.,43,TKT-7252959,TKT-9182763
+CHAT-0031,Agent,I'll escalate this for you.,44,TKT-7252959,TKT-9182763
+CHAT-0031,Customer,This was quick and easy.,45,TKT-7252959,TKT-9182763
+CHAT-0032,Customer,Please check and let me know.,1,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,This should be resolved now.,2,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,Can you help me with this?,3,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,Let me check your account.,4,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,Great service!,5,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,I understand your concern.,6,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,You're really helpful!,7,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,I understand your concern.,8,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,I appreciate your support.,9,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,This should be resolved now.,10,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,I appreciate your support.,11,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,This should be resolved now.,12,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,Thanks for resolving it fast.,13,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,Thanks for waiting.,14,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,This was quick and easy.,15,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,I'll escalate this for you.,16,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,"Thank you so much, that helped!",17,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,Let me check your account.,18,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,You still haven't resolved my issue.,19,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,Let me check your account.,20,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,Please check and let me know.,21,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,Let me check your account.,22,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,"Thank you so much, that helped!",23,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,Thanks for waiting.,24,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,Please check and let me know.,25,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,Let me check your account.,26,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,I'm really unhappy with this service.,27,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,Thanks for waiting.,28,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,"Okay, noted.",29,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,I’ve shared the update.,30,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,I'm checking the issue again.,31,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,I'm looking into it for you.,32,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,You still haven't resolved my issue.,33,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,This should be resolved now.,34,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,I just need some clarity on this.,35,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,This should be resolved now.,36,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,I want to speak to a supervisor.,37,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,This should be resolved now.,38,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,You still haven't resolved my issue.,39,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,I’ve shared the update.,40,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,I see. What should I do now?,41,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,This should be resolved now.,42,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,Can you help me with this?,43,TKT-4216755,TKT-4132108
+CHAT-0032,Agent,I’ve shared the update.,44,TKT-4216755,TKT-4132108
+CHAT-0032,Customer,I'm really unhappy with this service.,45,TKT-4216755,TKT-4132108
+CHAT-0033,Customer,"Okay, noted.",1,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Thanks for waiting.,2,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,I'm really unhappy with this service.,3,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Let me check your account.,4,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,This is unacceptable.,5,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I'll escalate this for you.,6,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,This is unacceptable.,7,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I understand your concern.,8,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,I see. What should I do now?,9,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I'm looking into it for you.,10,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,You still haven't resolved my issue.,11,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Let me check your account.,12,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,Terrible support.,13,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I’ve shared the update.,14,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,"Okay, noted.",15,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Let me check your account.,16,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,Thanks for resolving it fast.,17,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Let me check your account.,18,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,This was quick and easy.,19,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I'll escalate this for you.,20,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,I appreciate your support.,21,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Thanks for waiting.,22,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,This is getting frustrating.,23,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I’ve shared the update.,24,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,I just need some clarity on this.,25,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I'm looking into it for you.,26,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,"Okay, noted.",27,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I’ve shared the update.,28,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,I want to speak to a supervisor.,29,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I’ve shared the update.,30,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,Great service!,31,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Thanks for waiting.,32,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,I appreciate your support.,33,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I'll escalate this for you.,34,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,Waiting for your response.,35,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Let me check your account.,36,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,I'm checking the issue again.,37,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,Let me check your account.,38,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,"Okay, noted.",39,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I'll escalate this for you.,40,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,I'm checking the issue again.,41,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,I’ve shared the update.,42,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,This was quick and easy.,43,TKT-6161035,TKT-2338877
+CHAT-0033,Agent,This should be resolved now.,44,TKT-6161035,TKT-2338877
+CHAT-0033,Customer,Please check and let me know.,45,TKT-6161035,TKT-2338877
+CHAT-0034,Customer,Terrible support.,1,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I’ve shared the update.,2,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,I just need some clarity on this.,3,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I’ve shared the update.,4,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,Can you help me with this?,5,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,This should be resolved now.,6,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,"Thank you so much, that helped!",7,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I'm looking into it for you.,8,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,Please check and let me know.,9,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I’ve shared the update.,10,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,I'm really unhappy with this service.,11,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,This should be resolved now.,12,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,"Okay, noted.",13,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I'll escalate this for you.,14,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,Terrible support.,15,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I understand your concern.,16,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,I appreciate your support.,17,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I’ve shared the update.,18,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,Great service!,19,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,Thanks for waiting.,20,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,Terrible support.,21,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,Thanks for waiting.,22,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,"All good now, thanks!",23,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,Let me check your account.,24,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,This was quick and easy.,25,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I understand your concern.,26,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,I want to speak to a supervisor.,27,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,Thanks for waiting.,28,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,This was quick and easy.,29,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,Thanks for waiting.,30,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,I'm checking the issue again.,31,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,Let me check your account.,32,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,Why do I need to repeat myself?,33,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I'll escalate this for you.,34,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,I'm really unhappy with this service.,35,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I’ve shared the update.,36,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,You still haven't resolved my issue.,37,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,Let me check your account.,38,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,Can you help me with this?,39,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I'm looking into it for you.,40,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,"All good now, thanks!",41,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,I'm looking into it for you.,42,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,You still haven't resolved my issue.,43,TKT-7372523,TKT-9020462
+CHAT-0034,Agent,Thanks for waiting.,44,TKT-7372523,TKT-9020462
+CHAT-0034,Customer,I appreciate your support.,45,TKT-7372523,TKT-9020462
+CHAT-0035,Customer,"All good now, thanks!",1,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I understand your concern.,2,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,You still haven't resolved my issue.,3,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I'll escalate this for you.,4,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,I'm checking the issue again.,5,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,This should be resolved now.,6,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,Why do I need to repeat myself?,7,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,Let me check your account.,8,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,I'm really unhappy with this service.,9,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,Thanks for waiting.,10,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,"All good now, thanks!",11,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,Let me check your account.,12,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,Why do I need to repeat myself?,13,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I'm looking into it for you.,14,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,I see. What should I do now?,15,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I'll escalate this for you.,16,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,I just need some clarity on this.,17,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I'll escalate this for you.,18,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,You still haven't resolved my issue.,19,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,Thanks for waiting.,20,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,I see. What should I do now?,21,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I’ve shared the update.,22,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,This was quick and easy.,23,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I’ve shared the update.,24,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,Terrible support.,25,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I'm looking into it for you.,26,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,Please check and let me know.,27,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I'll escalate this for you.,28,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,"Okay, noted.",29,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,Let me check your account.,30,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,"Okay, noted.",31,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,This should be resolved now.,32,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,This was quick and easy.,33,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,Let me check your account.,34,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,Why do I need to repeat myself?,35,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I'm looking into it for you.,36,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,"Okay, noted.",37,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I’ve shared the update.,38,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,I see. What should I do now?,39,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I’ve shared the update.,40,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,Waiting for your response.,41,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,Let me check your account.,42,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,This is unacceptable.,43,TKT-7564410,TKT-4306029
+CHAT-0035,Agent,I’ve shared the update.,44,TKT-7564410,TKT-4306029
+CHAT-0035,Customer,I'm checking the issue again.,45,TKT-7564410,TKT-4306029
+CHAT-0036,Customer,I'm checking the issue again.,1,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I understand your concern.,2,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,Great service!,3,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,Thanks for waiting.,4,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,You're really helpful!,5,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I'm looking into it for you.,6,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,Why do I need to repeat myself?,7,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I’ve shared the update.,8,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,I'm really unhappy with this service.,9,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I understand your concern.,10,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,Thanks for resolving it fast.,11,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I’ve shared the update.,12,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,You still haven't resolved my issue.,13,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I’ve shared the update.,14,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,This was quick and easy.,15,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I understand your concern.,16,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,"Thank you so much, that helped!",17,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,Thanks for waiting.,18,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,Waiting for your response.,19,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,This should be resolved now.,20,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,I'm checking the issue again.,21,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I’ve shared the update.,22,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,Waiting for your response.,23,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I'll escalate this for you.,24,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,I'm really unhappy with this service.,25,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,This should be resolved now.,26,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,I appreciate your support.,27,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,Thanks for waiting.,28,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,I just need some clarity on this.,29,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I'm looking into it for you.,30,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,"Okay, noted.",31,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I'll escalate this for you.,32,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,You're really helpful!,33,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,Thanks for waiting.,34,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,I'm really unhappy with this service.,35,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I'll escalate this for you.,36,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,Waiting for your response.,37,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,I'll escalate this for you.,38,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,I see. What should I do now?,39,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,This should be resolved now.,40,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,Thanks for resolving it fast.,41,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,Let me check your account.,42,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,This is unacceptable.,43,TKT-5274851,TKT-1913114
+CHAT-0036,Agent,This should be resolved now.,44,TKT-5274851,TKT-1913114
+CHAT-0036,Customer,I'm really unhappy with this service.,45,TKT-5274851,TKT-1913114
+CHAT-0037,Customer,Please check and let me know.,1,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I'll escalate this for you.,2,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,This is getting frustrating.,3,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,Let me check your account.,4,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Can you help me with this?,5,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I’ve shared the update.,6,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,I'm checking the issue again.,7,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,Let me check your account.,8,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Waiting for your response.,9,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,Thanks for waiting.,10,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,"Okay, noted.",11,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,This should be resolved now.,12,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,This is getting frustrating.,13,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,Let me check your account.,14,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,I'm really unhappy with this service.,15,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,Thanks for waiting.,16,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,I want to speak to a supervisor.,17,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I understand your concern.,18,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,I'm really unhappy with this service.,19,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,This should be resolved now.,20,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Please check and let me know.,21,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,Let me check your account.,22,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Waiting for your response.,23,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I'll escalate this for you.,24,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,"Thank you so much, that helped!",25,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I'm looking into it for you.,26,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Why do I need to repeat myself?,27,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,This should be resolved now.,28,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,I appreciate your support.,29,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I'll escalate this for you.,30,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Please check and let me know.,31,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I'll escalate this for you.,32,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Waiting for your response.,33,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I understand your concern.,34,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Waiting for your response.,35,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I understand your concern.,36,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Waiting for your response.,37,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I’ve shared the update.,38,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,This was quick and easy.,39,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,Let me check your account.,40,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Terrible support.,41,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I’ve shared the update.,42,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,Terrible support.,43,TKT-5382053,TKT-4011180
+CHAT-0037,Agent,I'll escalate this for you.,44,TKT-5382053,TKT-4011180
+CHAT-0037,Customer,"Thank you so much, that helped!",45,TKT-5382053,TKT-4011180
+CHAT-0038,Customer,"All good now, thanks!",1,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,This should be resolved now.,2,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,Why do I need to repeat myself?,3,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I'll escalate this for you.,4,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,I'm checking the issue again.,5,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I’ve shared the update.,6,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,You're really helpful!,7,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I understand your concern.,8,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,This is unacceptable.,9,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,Let me check your account.,10,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,Can you help me with this?,11,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I'll escalate this for you.,12,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,Why do I need to repeat myself?,13,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I’ve shared the update.,14,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,This was quick and easy.,15,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,Let me check your account.,16,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,I just need some clarity on this.,17,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,This should be resolved now.,18,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,Waiting for your response.,19,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I’ve shared the update.,20,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,Can you help me with this?,21,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I’ve shared the update.,22,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,"Okay, noted.",23,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I’ve shared the update.,24,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,"All good now, thanks!",25,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,Let me check your account.,26,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,This is unacceptable.,27,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,Let me check your account.,28,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,I'm really unhappy with this service.,29,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I understand your concern.,30,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,Please check and let me know.,31,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I understand your concern.,32,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,This was quick and easy.,33,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,Let me check your account.,34,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,You still haven't resolved my issue.,35,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I'm looking into it for you.,36,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,"Okay, noted.",37,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I'll escalate this for you.,38,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,I see. What should I do now?,39,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I’ve shared the update.,40,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,I'm checking the issue again.,41,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,I'm looking into it for you.,42,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,This was quick and easy.,43,TKT-3392144,TKT-4469438
+CHAT-0038,Agent,Let me check your account.,44,TKT-3392144,TKT-4469438
+CHAT-0038,Customer,Can you help me with this?,45,TKT-3392144,TKT-4469438
+CHAT-0039,Customer,I see. What should I do now?,1,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I'll escalate this for you.,2,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,I appreciate your support.,3,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Thanks for waiting.,4,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,I see. What should I do now?,5,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I’ve shared the update.,6,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,"All good now, thanks!",7,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I’ve shared the update.,8,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,You still haven't resolved my issue.,9,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Thanks for waiting.,10,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,Great service!,11,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Thanks for waiting.,12,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,You still haven't resolved my issue.,13,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,This should be resolved now.,14,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,Why do I need to repeat myself?,15,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I understand your concern.,16,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,I'm checking the issue again.,17,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I’ve shared the update.,18,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,I'm really unhappy with this service.,19,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I’ve shared the update.,20,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,You're really helpful!,21,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I understand your concern.,22,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,Why do I need to repeat myself?,23,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I understand your concern.,24,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,Please check and let me know.,25,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Thanks for waiting.,26,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,Why do I need to repeat myself?,27,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,This should be resolved now.,28,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,"Thank you so much, that helped!",29,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Let me check your account.,30,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,I see. What should I do now?,31,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I'll escalate this for you.,32,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,I just need some clarity on this.,33,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I’ve shared the update.,34,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,You're really helpful!,35,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,I understand your concern.,36,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,Waiting for your response.,37,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Let me check your account.,38,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,You're really helpful!,39,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Thanks for waiting.,40,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,Please check and let me know.,41,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Let me check your account.,42,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,I just need some clarity on this.,43,TKT-8173508,TKT-4122907
+CHAT-0039,Agent,Let me check your account.,44,TKT-8173508,TKT-4122907
+CHAT-0039,Customer,I just need some clarity on this.,45,TKT-8173508,TKT-4122907
+CHAT-0040,Customer,I just need some clarity on this.,1,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,This should be resolved now.,2,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,"Thank you so much, that helped!",3,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'm looking into it for you.,4,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,You're really helpful!,5,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,This should be resolved now.,6,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,Great service!,7,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I’ve shared the update.,8,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,Why do I need to repeat myself?,9,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,Thanks for waiting.,10,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,You're really helpful!,11,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'll escalate this for you.,12,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,"Okay, noted.",13,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,This should be resolved now.,14,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,I see. What should I do now?,15,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,Thanks for waiting.,16,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,Waiting for your response.,17,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'll escalate this for you.,18,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,You still haven't resolved my issue.,19,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,Let me check your account.,20,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,I appreciate your support.,21,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,This should be resolved now.,22,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,I want to speak to a supervisor.,23,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'll escalate this for you.,24,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,Please check and let me know.,25,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,Thanks for waiting.,26,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,"All good now, thanks!",27,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'm looking into it for you.,28,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,Please check and let me know.,29,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,Thanks for waiting.,30,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,You still haven't resolved my issue.,31,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'm looking into it for you.,32,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,"Thank you so much, that helped!",33,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,This should be resolved now.,34,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,You're really helpful!,35,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'll escalate this for you.,36,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,This was quick and easy.,37,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'll escalate this for you.,38,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,Great service!,39,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,Let me check your account.,40,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,I'm really unhappy with this service.,41,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,I'm looking into it for you.,42,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,You're really helpful!,43,TKT-5569928,TKT-9532122
+CHAT-0040,Agent,This should be resolved now.,44,TKT-5569928,TKT-9532122
+CHAT-0040,Customer,This is getting frustrating.,45,TKT-5569928,TKT-9532122
+CHAT-0041,Customer,Please check and let me know.,1,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,Let me check your account.,2,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,You still haven't resolved my issue.,3,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I'll escalate this for you.,4,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I'm checking the issue again.,5,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I understand your concern.,6,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,This was quick and easy.,7,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I understand your concern.,8,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,Thanks for resolving it fast.,9,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,This should be resolved now.,10,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I see. What should I do now?,11,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I understand your concern.,12,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I see. What should I do now?,13,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I understand your concern.,14,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,Please check and let me know.,15,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I’ve shared the update.,16,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I'm checking the issue again.,17,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,This should be resolved now.,18,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I appreciate your support.,19,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,Let me check your account.,20,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I'm checking the issue again.,21,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,Let me check your account.,22,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I want to speak to a supervisor.,23,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,This should be resolved now.,24,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,Terrible support.,25,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I’ve shared the update.,26,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I just need some clarity on this.,27,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I'm looking into it for you.,28,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I'm checking the issue again.,29,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I understand your concern.,30,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,You still haven't resolved my issue.,31,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,This should be resolved now.,32,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,Can you help me with this?,33,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,This should be resolved now.,34,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,"All good now, thanks!",35,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I understand your concern.,36,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,Waiting for your response.,37,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I'm looking into it for you.,38,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,You still haven't resolved my issue.,39,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,Thanks for waiting.,40,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I see. What should I do now?,41,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,This should be resolved now.,42,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I want to speak to a supervisor.,43,TKT-8172692,TKT-7406748
+CHAT-0041,Agent,I understand your concern.,44,TKT-8172692,TKT-7406748
+CHAT-0041,Customer,I'm checking the issue again.,45,TKT-8172692,TKT-7406748
+CHAT-0042,Customer,I see. What should I do now?,1,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,This should be resolved now.,2,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,I appreciate your support.,3,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,This should be resolved now.,4,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,I just need some clarity on this.,5,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,Thanks for waiting.,6,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,I want to speak to a supervisor.,7,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I’ve shared the update.,8,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,Thanks for resolving it fast.,9,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I understand your concern.,10,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,This is unacceptable.,11,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,This should be resolved now.,12,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,This was quick and easy.,13,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,Let me check your account.,14,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,This was quick and easy.,15,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,Let me check your account.,16,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,Thanks for resolving it fast.,17,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,This should be resolved now.,18,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,You still haven't resolved my issue.,19,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,This should be resolved now.,20,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,This is unacceptable.,21,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I'll escalate this for you.,22,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,I'm checking the issue again.,23,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I'm looking into it for you.,24,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,This is getting frustrating.,25,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,This should be resolved now.,26,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,I just need some clarity on this.,27,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I'll escalate this for you.,28,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,I'm really unhappy with this service.,29,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I'll escalate this for you.,30,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,"Thank you so much, that helped!",31,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I'll escalate this for you.,32,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,Why do I need to repeat myself?,33,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,Let me check your account.,34,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,This is unacceptable.,35,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,This should be resolved now.,36,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,Great service!,37,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I'll escalate this for you.,38,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,I see. What should I do now?,39,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,Let me check your account.,40,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,Please check and let me know.,41,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,Let me check your account.,42,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,You still haven't resolved my issue.,43,TKT-2419279,TKT-3257737
+CHAT-0042,Agent,I’ve shared the update.,44,TKT-2419279,TKT-3257737
+CHAT-0042,Customer,This is unacceptable.,45,TKT-2419279,TKT-3257737
+CHAT-0043,Customer,Waiting for your response.,1,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'll escalate this for you.,2,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I'm really unhappy with this service.,3,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'm looking into it for you.,4,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I just need some clarity on this.,5,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'm looking into it for you.,6,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Great service!,7,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I’ve shared the update.,8,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Can you help me with this?,9,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'm looking into it for you.,10,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,You're really helpful!,11,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,Thanks for waiting.,12,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,This was quick and easy.,13,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,This should be resolved now.,14,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I appreciate your support.,15,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,Let me check your account.,16,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,This is getting frustrating.,17,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'm looking into it for you.,18,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I'm checking the issue again.,19,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I’ve shared the update.,20,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Thanks for resolving it fast.,21,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'm looking into it for you.,22,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I'm really unhappy with this service.,23,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I’ve shared the update.,24,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I just need some clarity on this.,25,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,Let me check your account.,26,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Thanks for resolving it fast.,27,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I’ve shared the update.,28,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Why do I need to repeat myself?,29,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'm looking into it for you.,30,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I'm checking the issue again.,31,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'll escalate this for you.,32,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Can you help me with this?,33,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I’ve shared the update.,34,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Thanks for resolving it fast.,35,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'll escalate this for you.,36,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Can you help me with this?,37,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I understand your concern.,38,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,Waiting for your response.,39,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,Let me check your account.,40,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I see. What should I do now?,41,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,I'm looking into it for you.,42,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,"Okay, noted.",43,TKT-2625824,TKT-4804807
+CHAT-0043,Agent,Thanks for waiting.,44,TKT-2625824,TKT-4804807
+CHAT-0043,Customer,I see. What should I do now?,45,TKT-2625824,TKT-4804807
+CHAT-0044,Customer,Please check and let me know.,1,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,This should be resolved now.,2,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,I see. What should I do now?,3,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I’ve shared the update.,4,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,I see. What should I do now?,5,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I understand your concern.,6,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,Terrible support.,7,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,Thanks for waiting.,8,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,Please check and let me know.,9,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I’ve shared the update.,10,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,Thanks for resolving it fast.,11,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,Thanks for waiting.,12,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,You're really helpful!,13,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,Let me check your account.,14,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,"Thank you so much, that helped!",15,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I'm looking into it for you.,16,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,I appreciate your support.,17,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I'm looking into it for you.,18,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,"Okay, noted.",19,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I'm looking into it for you.,20,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,This was quick and easy.,21,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I'm looking into it for you.,22,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,I see. What should I do now?,23,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,This should be resolved now.,24,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,Can you help me with this?,25,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,This should be resolved now.,26,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,I'm really unhappy with this service.,27,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,This should be resolved now.,28,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,"Okay, noted.",29,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,This should be resolved now.,30,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,Thanks for resolving it fast.,31,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I'll escalate this for you.,32,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,Can you help me with this?,33,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,This should be resolved now.,34,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,This is unacceptable.,35,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I'm looking into it for you.,36,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,I see. What should I do now?,37,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,Thanks for waiting.,38,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,Thanks for resolving it fast.,39,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,Let me check your account.,40,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,I appreciate your support.,41,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,Let me check your account.,42,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,I'm really unhappy with this service.,43,TKT-9365472,TKT-2565395
+CHAT-0044,Agent,I'll escalate this for you.,44,TKT-9365472,TKT-2565395
+CHAT-0044,Customer,Can you help me with this?,45,TKT-9365472,TKT-2565395
+CHAT-0045,Customer,Great service!,1,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I'll escalate this for you.,2,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,Great service!,3,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,Let me check your account.,4,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,This was quick and easy.,5,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,This should be resolved now.,6,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,Waiting for your response.,7,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,Let me check your account.,8,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,You're really helpful!,9,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,Thanks for waiting.,10,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,Terrible support.,11,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I'm looking into it for you.,12,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I see. What should I do now?,13,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,Let me check your account.,14,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,Can you help me with this?,15,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I understand your concern.,16,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,"Thank you so much, that helped!",17,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I'll escalate this for you.,18,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,This is getting frustrating.,19,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I'm looking into it for you.,20,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,Thanks for resolving it fast.,21,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,This should be resolved now.,22,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I want to speak to a supervisor.,23,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I’ve shared the update.,24,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I'm really unhappy with this service.,25,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,This should be resolved now.,26,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,Can you help me with this?,27,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,This should be resolved now.,28,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I just need some clarity on this.,29,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,Thanks for waiting.,30,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I'm checking the issue again.,31,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,Let me check your account.,32,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I'm checking the issue again.,33,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,Thanks for waiting.,34,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,Please check and let me know.,35,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I’ve shared the update.,36,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I see. What should I do now?,37,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,This should be resolved now.,38,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I'm really unhappy with this service.,39,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I’ve shared the update.,40,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,Why do I need to repeat myself?,41,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I’ve shared the update.,42,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,This is unacceptable.,43,TKT-9300780,TKT-6948079
+CHAT-0045,Agent,I'm looking into it for you.,44,TKT-9300780,TKT-6948079
+CHAT-0045,Customer,I just need some clarity on this.,45,TKT-9300780,TKT-6948079
+CHAT-0046,Customer,"All good now, thanks!",1,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Let me check your account.,2,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,I'm really unhappy with this service.,3,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,I'm looking into it for you.,4,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,I'm checking the issue again.,5,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Let me check your account.,6,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,"All good now, thanks!",7,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Let me check your account.,8,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,I just need some clarity on this.,9,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Let me check your account.,10,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,I see. What should I do now?,11,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Thanks for waiting.,12,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,You still haven't resolved my issue.,13,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,This should be resolved now.,14,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,I just need some clarity on this.,15,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,I'm looking into it for you.,16,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,Terrible support.,17,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,I'm looking into it for you.,18,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,I appreciate your support.,19,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Let me check your account.,20,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,This was quick and easy.,21,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,I understand your concern.,22,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,I just need some clarity on this.,23,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Thanks for waiting.,24,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,This was quick and easy.,25,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Thanks for waiting.,26,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,Great service!,27,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,This should be resolved now.,28,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,"Okay, noted.",29,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,This should be resolved now.,30,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,Waiting for your response.,31,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,I understand your concern.,32,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,I'm really unhappy with this service.,33,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Let me check your account.,34,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,Great service!,35,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,Let me check your account.,36,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,Please check and let me know.,37,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,This should be resolved now.,38,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,Waiting for your response.,39,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,I'm looking into it for you.,40,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,You're really helpful!,41,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,I’ve shared the update.,42,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,Why do I need to repeat myself?,43,TKT-3482621,TKT-9232831
+CHAT-0046,Agent,I'll escalate this for you.,44,TKT-3482621,TKT-9232831
+CHAT-0046,Customer,You're really helpful!,45,TKT-3482621,TKT-9232831
+CHAT-0047,Customer,This is getting frustrating.,1,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Thanks for waiting.,2,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,I'm checking the issue again.,3,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I'll escalate this for you.,4,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Great service!,5,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Thanks for waiting.,6,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,I'm checking the issue again.,7,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I'll escalate this for you.,8,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Why do I need to repeat myself?,9,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I understand your concern.,10,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,You still haven't resolved my issue.,11,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I’ve shared the update.,12,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,"Thank you so much, that helped!",13,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I'll escalate this for you.,14,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Can you help me with this?,15,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Let me check your account.,16,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Can you help me with this?,17,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I’ve shared the update.,18,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,I see. What should I do now?,19,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I'm looking into it for you.,20,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,"Okay, noted.",21,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I'm looking into it for you.,22,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Please check and let me know.,23,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Thanks for waiting.,24,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,You're really helpful!,25,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I understand your concern.,26,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,I'm checking the issue again.,27,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Let me check your account.,28,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,"All good now, thanks!",29,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Thanks for waiting.,30,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Waiting for your response.,31,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I'll escalate this for you.,32,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,I appreciate your support.,33,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Thanks for waiting.,34,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,I just need some clarity on this.,35,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Let me check your account.,36,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Waiting for your response.,37,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I understand your concern.,38,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Please check and let me know.,39,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,Let me check your account.,40,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,Why do I need to repeat myself?,41,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,I'm looking into it for you.,42,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,"Okay, noted.",43,TKT-5899730,TKT-3812672
+CHAT-0047,Agent,This should be resolved now.,44,TKT-5899730,TKT-3812672
+CHAT-0047,Customer,You're really helpful!,45,TKT-5899730,TKT-3812672
+CHAT-0048,Customer,You're really helpful!,1,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,Let me check your account.,2,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I want to speak to a supervisor.,3,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I’ve shared the update.,4,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,Great service!,5,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I'm looking into it for you.,6,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,Terrible support.,7,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,Thanks for waiting.,8,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,Can you help me with this?,9,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I understand your concern.,10,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,"Okay, noted.",11,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,Thanks for waiting.,12,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,Can you help me with this?,13,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I'm looking into it for you.,14,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I appreciate your support.,15,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,Thanks for waiting.,16,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I see. What should I do now?,17,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I'll escalate this for you.,18,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,"All good now, thanks!",19,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,This should be resolved now.,20,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,Why do I need to repeat myself?,21,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,Let me check your account.,22,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,Great service!,23,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I'll escalate this for you.,24,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I'm checking the issue again.,25,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I'm looking into it for you.,26,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I'm checking the issue again.,27,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I’ve shared the update.,28,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,Can you help me with this?,29,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,Thanks for waiting.,30,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,This is getting frustrating.,31,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I'm looking into it for you.,32,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,"Okay, noted.",33,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I'm looking into it for you.,34,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I want to speak to a supervisor.,35,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I’ve shared the update.,36,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,This is unacceptable.,37,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I’ve shared the update.,38,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I just need some clarity on this.,39,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,I’ve shared the update.,40,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I appreciate your support.,41,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,Thanks for waiting.,42,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,"Thank you so much, that helped!",43,TKT-3667966,TKT-9506759
+CHAT-0048,Agent,This should be resolved now.,44,TKT-3667966,TKT-9506759
+CHAT-0048,Customer,I appreciate your support.,45,TKT-3667966,TKT-9506759
+CHAT-0049,Customer,I just need some clarity on this.,1,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I’ve shared the update.,2,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I'm checking the issue again.,3,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,Thanks for waiting.,4,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I'm really unhappy with this service.,5,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,This should be resolved now.,6,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I appreciate your support.,7,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I’ve shared the update.,8,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,"Okay, noted.",9,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,Thanks for waiting.,10,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I see. What should I do now?,11,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I understand your concern.,12,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,"Okay, noted.",13,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I’ve shared the update.,14,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I appreciate your support.,15,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I understand your concern.,16,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,Thanks for resolving it fast.,17,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I'm looking into it for you.,18,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I'm checking the issue again.,19,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,Thanks for waiting.,20,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,"All good now, thanks!",21,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I understand your concern.,22,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I'm checking the issue again.,23,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I’ve shared the update.,24,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I appreciate your support.,25,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I'm looking into it for you.,26,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,You're really helpful!,27,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I understand your concern.,28,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,Terrible support.,29,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I'll escalate this for you.,30,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I'm really unhappy with this service.,31,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I'm looking into it for you.,32,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,Waiting for your response.,33,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I'm looking into it for you.,34,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,This was quick and easy.,35,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,This should be resolved now.,36,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I appreciate your support.,37,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I understand your concern.,38,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,Can you help me with this?,39,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,Thanks for waiting.,40,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I want to speak to a supervisor.,41,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,Thanks for waiting.,42,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,I just need some clarity on this.,43,TKT-2108927,TKT-1592858
+CHAT-0049,Agent,I'll escalate this for you.,44,TKT-2108927,TKT-1592858
+CHAT-0049,Customer,This is unacceptable.,45,TKT-2108927,TKT-1592858
+CHAT-0050,Customer,I'm checking the issue again.,1,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I'll escalate this for you.,2,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,"Okay, noted.",3,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I'm looking into it for you.,4,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,Can you help me with this?,5,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I understand your concern.,6,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,This was quick and easy.,7,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I'll escalate this for you.,8,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,Please check and let me know.,9,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,This should be resolved now.,10,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,This is getting frustrating.,11,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I'll escalate this for you.,12,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,This was quick and easy.,13,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I’ve shared the update.,14,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,I'm checking the issue again.,15,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,This should be resolved now.,16,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,"Thank you so much, that helped!",17,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,This should be resolved now.,18,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,You're really helpful!,19,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,Let me check your account.,20,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,You're really helpful!,21,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,Thanks for waiting.,22,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,"Thank you so much, that helped!",23,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I’ve shared the update.,24,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,You're really helpful!,25,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,This should be resolved now.,26,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,I see. What should I do now?,27,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,Let me check your account.,28,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,I just need some clarity on this.,29,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I'm looking into it for you.,30,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,Can you help me with this?,31,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I’ve shared the update.,32,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,Great service!,33,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,This should be resolved now.,34,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,Why do I need to repeat myself?,35,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I’ve shared the update.,36,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,You still haven't resolved my issue.,37,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I'll escalate this for you.,38,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,Waiting for your response.,39,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,This should be resolved now.,40,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,You're really helpful!,41,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I’ve shared the update.,42,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,Please check and let me know.,43,TKT-5565959,TKT-2419523
+CHAT-0050,Agent,I’ve shared the update.,44,TKT-5565959,TKT-2419523
+CHAT-0050,Customer,Can you help me with this?,45,TKT-5565959,TKT-2419523
